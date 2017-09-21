@@ -1,0 +1,2 @@
+This directory contains the unix assignment for BCB_546X. The assignment consisted of two components, data inspection and processing. The directory contains 7 subdirectories each consisted of processed files.
+The code is available as Unix_Assignment_code.md
